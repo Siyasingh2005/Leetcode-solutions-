@@ -4,7 +4,7 @@ My solutions to LeetCode problems in C++
 |-----|-------------------------|------------------------------------|------------|
 | 268 | Missing Number          |[C++](./268-%20missing%20number.cpp)| Easy       |
 | 206 | Reverse a linked list   |                                    | Easy       |
-| 876 | middle of a limked list |                                    | Easy       |
+| 876 | middle of a linked list |                                    | Easy       |
 | 21  | merge two sorted lists  |                                    | Easy       |
 | 507 | perfect number          |                                    | Easy       |
 | 141 | linked list cycle       |                                    | Easy       |
