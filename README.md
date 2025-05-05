@@ -11,4 +11,4 @@ My solutions to LeetCode problems in C++
 | 9   | Palindrome number             |[C++](9-%20Palindrome%20number.cpp)                    | Easy       |
 | 234 | Palindrome linked list        |[C++](234-%20Palindrome%20linked%20list.cpp)           | Easy       |
 | 367 | Valid perfect square          |[C++](367-%20Valid%20perfect%20square.cpp)             | Easy       |
-| 203 |Remove linked list elements    |[C++](203-Remove%20linked%20list%20elements)           | Easy       |
+| 203 |Remove linked list elements    |[C++](203-remove%20linked%20list%20elements)           | Easy       |
