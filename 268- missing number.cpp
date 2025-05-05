@@ -1,7 +1,6 @@
-// Problem: https://leetcode.com/problems/missing-number/
+// Problem: https://leetcode.com/problems/missing-number/description
 // Language: C++
-// Time Complexity: O(n)
-// Space Complexity: O(1)
+// Author : Siya Singh 
 
 class Solution {
 public:
